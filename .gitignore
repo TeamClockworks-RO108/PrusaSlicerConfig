@@ -1,0 +1,12 @@
+# Ignore everything
+/*
+# include only profiles
+!printer/
+!filament/
+!print/
+
+# Include self
+!.gitignore
+
+# Include sync.sh
+!sync.sh
