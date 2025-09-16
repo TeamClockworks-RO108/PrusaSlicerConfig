@@ -4,6 +4,7 @@
 !printer/
 !filament/
 !print/
+!beds/
 
 # Include self
 !.gitignore
